@@ -1,0 +1,10 @@
+#title{
+    display: inline-block;
+    color: rgb(71, 137, 71);
+    border-radius: 30px;
+}
+
+table{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 15%;
+}
